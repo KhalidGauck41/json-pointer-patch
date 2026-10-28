@@ -1,6 +1,6 @@
 {
   "name": "json-pointer-patch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Applies RFC 6902 JSON Pointer operations to read, write, or delete nested values in parsed JSON files.",
   "type": "module",
   "main": "src/index.js",
